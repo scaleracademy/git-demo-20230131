@@ -7,16 +7,16 @@ Spain               Madrid
 France              Paris
 Germany             Berlin
 United Kingdom      London
-United States 
-Australia 
-Canada 
-Mexico 
-Brazil 
-Argentina 
-South Africa 
-Thailand 
-Malaysia 
-Singapore 
-Japan 
-China 
-India
+United States       Washington, D.C.
+Australia           Canberra
+Canada              Ottawa
+Mexico              Mexico City
+Brazil              Brasilia
+Argentina           Buenos Aires
+South Africa        Pretoria
+Thailand            Bangkok
+Malaysia            Kuala Lumpur
+Singapore           Singapore
+Japan               Tokyo
+China               Beijing
+India               New Delhi
