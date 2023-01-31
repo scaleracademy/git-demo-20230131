@@ -1,10 +1,12 @@
-Apple
-Mango
-Banana
-Grapes
-Orange
-Pineapple
-Watermelon
+Fruit               Taste
+------------------  ------------------
+Apple               Sweet
+Mango               Sweet
+Banana              Sweet
+Grapes              Sweet
+Orange              Sour
+Pineapple           Sour
+Watermelon          Watery
 Papaya
 Strawberry
 Guava
