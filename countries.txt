@@ -6,6 +6,8 @@ Italy               Rome
 Spain               Madrid
 France              Paris
 Germany             Berlin
+United Kingdom      London
+United States       Washington, D.C.
 Australia           Canberra
 Canada              Ottawa
 Mexico              Mexico City
@@ -18,3 +20,8 @@ Singapore           Singapore
 Japan               Tokyo
 China               Beijing
 India               New Delhi
+Pakistan            Islamabad
+Bangladesh          Dhaka
+Sri Lanka           Colombo
+Nepal               Kathmandu
+Bhutan              Thimphu
