@@ -6,8 +6,6 @@ Italy               Rome
 Spain               Madrid
 France              Paris
 Germany             Berlin
-United Kingdom      London
-United States       Washington, D.C.
 Australia           Canberra
 Canada              Ottawa
 Mexico              Mexico City
