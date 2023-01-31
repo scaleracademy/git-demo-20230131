@@ -20,3 +20,8 @@ Plum                Sweet
 Pear                Sweet
 Coconut             Watery
 Jackfruit           Fleshy
+Pomelo              Sour
+Rambutan            Fleshy
+Tamarind            Sour
+Custard Apple       Sweet
+Raspberry           Sour
