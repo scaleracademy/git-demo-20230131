@@ -7,16 +7,16 @@ Grapes              Sweet
 Orange              Sour
 Pineapple           Sour
 Watermelon          Watery
-Papaya
-Strawberry
-Guava
-Pomegranate
-Cherry
-Kiwi
-Lemon
-Peach
-Lychee
-Plum
-Pear
-Coconut
-Jackfruit
+Papaya              Watery
+Strawberry          Sour
+Guava               Fleshy
+Pomegranate         Sour
+Cherry              Sour
+Kiwi                Sour
+Lemon               Sour
+Peach               Sweet
+Lychee              Fleshy
+Plum                Sweet
+Pear                Sweet
+Coconut             Watery
+Jackfruit           Fleshy
