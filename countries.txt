@@ -1,10 +1,12 @@
-Turkey 
-Greece 
-Italy 
-Spain 
-France 
-Germany 
-United Kingdom 
+Country             Capital
+------------------ ------------------
+Turkey              Ankara
+Greece              Athens
+Italy               Rome
+Spain               Madrid
+France              Paris
+Germany             Berlin
+United Kingdom      London
 United States 
 Australia 
 Canada 
